@@ -1,0 +1,5 @@
+package Inharitance;
+
+class TestCircleCylinder {
+
+}
